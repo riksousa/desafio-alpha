@@ -1,4 +1,8 @@
 
+## Visualizar Aplicação 
+
+https://desafio-alpha-l.vercel.app/
+
 ## Executar
 
 **Opção 1 — mais simples:** abra `index.html` no navegador. Não precisa de `npm install`, framework, banco de dados nem backend.
