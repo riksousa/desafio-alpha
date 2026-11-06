@@ -1,6 +1,3 @@
-# Alpha Log Transportes — Landing Page B2B
-
-Landing page original desenvolvida para o desafio técnico da marca-conceito **Alpha Log Transportes**. Objetivo principal: gerar solicitações de cotação de clientes B2B.
 
 ## Executar
 
